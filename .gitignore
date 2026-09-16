@@ -1,0 +1,60 @@
+# KiCad temporary / backup
+# https://github.com/github/gitignore/blob/main/KiCad.gitignore
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+*.lck
+
+# Netlist / autorouter scratch
+*.net
+*.dsn
+*.ses
+
+# KiCad local state
+.history
+*.kicad_prl
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# Editors / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Python (local analysis / scripts)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Firmware build artifacts (if added later)
+build/
+*.elf
+*.map
+*.o
+*.d
+*.hex
+*.bin
+*.lst
