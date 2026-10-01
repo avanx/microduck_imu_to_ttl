@@ -165,8 +165,8 @@ flowchart LR
 | 项目 | 状态 |
 |---|---|
 | PCB 设计 | 完成 |
-| PCB上电测试 | TODO |
-| 飞特 SCS 固件 | TODO |
+| PCB上电测试 | 完成 |
+| 飞特 SCS 固件 | 完成PC调试，等待上机 |
 | DXL 舵机总线 | TODO |
 
 ## 许可
